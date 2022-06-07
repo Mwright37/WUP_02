@@ -65,3 +65,5 @@ The chances of these results would be .00000003405. If there really was no diffe
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The c52 had a higher 50th percentile than the c39 5oth percentile. Not only that but the c52 maximum was 84 while c39 maximum was 68.C52's first quartile was higher than c39's third quartile and the 25th percentile of c39 was lower than c52 25th percentile.  
